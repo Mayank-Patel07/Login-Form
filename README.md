@@ -9,8 +9,12 @@ Currently, two official plugins are available:
 
 # Installation
 https://vitejs.dev/guide/
-Install dependencies:
+
+# Install dependencies:
 npm install
-Development
+
+# Development
+
 To start the development server, run:
+
 npm run dev
